@@ -37,4 +37,6 @@ Clone the repository and install dependencies:
 git clone https://github.com/xKZPRx/bmi-calculator.git
 cd bmi-calculator
 npm install
+npm run dev
 ```
+Copy and open the localhost in your browser
