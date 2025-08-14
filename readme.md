@@ -34,7 +34,7 @@ Users can enter their weight and height to calculate BMI and see their health ca
 ## 🛠️ Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/your-username/bmi-calculator.git
+git clone https://github.com/xKZPRx/bmi-calculator.git
 cd bmi-calculator
 npm install
 ```
